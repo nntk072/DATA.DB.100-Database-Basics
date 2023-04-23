@@ -1,9 +1,0 @@
--- h1t11
--- Long Nguyen 151317891
-
-a. name = 'Downhill': TRUE
-b. name <> 'Downhill': FALSE
-c. category = 'yellow': FALSE
-d. price <> 23.00: FALSE
-e. category IS NULL: TRUE
-f. category IS NOT NULL: FALSE

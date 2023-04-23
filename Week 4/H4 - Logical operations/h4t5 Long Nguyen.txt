@@ -1,0 +1,9 @@
+h4t5 Long Nguyen
+a. NOT name = 'K2' -> False
+b. NOT height = 4811 -> True
+c. name <> 'Rakaposhi' OR NOT height = 4811 -> True
+d. name = 'Rakaposhi' OR NOT height = 4811 -> True
+e. name = 'K2' AND height = 8611 -> False
+f. name = 'Rakaposhi' AND height = 8611 -> False
+g. (id > 10 OR continent = 'Eurooppa') AND height = 8611 -> False
+h. id > 10 OR continent = 'Eurooppa' AND height = 8611 -> True
